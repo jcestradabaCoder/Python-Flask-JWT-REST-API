@@ -1,0 +1,9 @@
+- Crear entorno virtual:
+virtualenv venv
+
+- Ejecutar entorno virtual:
+.\venv\scripts\activate.bat
+
+- Instalar dependencias:
+pip install flask python-dotenv pyjwt requests
+pip install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy mysql pymysql
