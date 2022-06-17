@@ -6,4 +6,3 @@ virtualenv venv
 
 - Instalar dependencias:
 pip install flask python-dotenv pyjwt requests
-pip install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy mysql pymysql
